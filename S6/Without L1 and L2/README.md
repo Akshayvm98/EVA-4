@@ -1,6 +1,6 @@
 Without L1 and L2 Regularization
 
-Link to Misclassified Images
+Link to Misclassified Images  https://drive.google.com/open?id=1kg7ZxgrBvBzInp6Ug_nPdtSEAsyDPAug
 
 Validation Accuracy Plot
 
