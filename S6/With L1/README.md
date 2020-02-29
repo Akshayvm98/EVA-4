@@ -1,6 +1,6 @@
 With L1 Regularization
 
-Link to Misclassified Images
+Link to Misclassified Images  https://drive.google.com/open?id=16Yl4YzvfUEyoSwl7tBebZJKK2ibDvABO
 
 ![validation_loss](https://user-images.githubusercontent.com/44206147/75613003-d5288280-5b4e-11ea-8f12-21579bd2ee44.jpg)
 
