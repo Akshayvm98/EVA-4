@@ -1,6 +1,6 @@
 With L1 and L2 Regularization
 
-Link to Misclassified Images  
+Link to Misclassified Images   https://drive.google.com/drive/folders/13Sl4_yN67viMn2ZTnqCYsMqrgstCuJk8?usp=sharing
 
 ![validation_accuracy (1)](https://user-images.githubusercontent.com/44206147/75613053-6f88c600-5b4f-11ea-9956-a5e2642d78d3.jpg)
 
