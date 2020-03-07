@@ -1,3 +1,5 @@
+Assignment done by Akshay VM and Adithya Balakumar 
+
 # Work on CIFAR-10 Dataset
 
 ## Goals
