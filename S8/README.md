@@ -1,3 +1,5 @@
+EVA4 S8
+
 Assignment Done by: Adithya Balakumar, Akshay VM
 
 Training ResNet18 model with CIFAR10
