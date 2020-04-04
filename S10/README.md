@@ -10,8 +10,8 @@ Done by- Adithya Balakumar, Akshay V M
 
 Target- 88% Accuracy.
 
-Best Training Accuracy- 97.61%
-Best Test Accuracy- 90.30%
+Best Training Accuracy- 97.61%.
+Best Test Accuracy- 90.30%.
 
 
 
