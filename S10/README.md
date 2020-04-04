@@ -15,7 +15,8 @@ Best Training Accuracy- 97.61%.
 
 Best Test Accuracy- 90.30%.
 
-Training and Testing Accuracy Plot
+
+## Training and Testing Accuracy Plot
 
 ![](plots/Accuracy_change_plot.jpg)
 
