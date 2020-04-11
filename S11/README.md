@@ -3,7 +3,9 @@
 Done by: Adithya Balakumar, Akshay VM
 
 Target Accuracy: 90%
+
 Using OneCycle Policy
+
 Used this transform - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
 
 
