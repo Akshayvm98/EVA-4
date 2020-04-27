@@ -1,4 +1,7 @@
 # Assignment 13
+
+Done by Adithya Balakumar, Akshay VM
+
 ## Part_B  Training YOLOv3 on custom dataset
 Trained yolov3 with 500 images of pikachu.
 
