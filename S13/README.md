@@ -1,6 +1,7 @@
 # Assignment 13
 ## Part_B  Training YOLOv3 on custom dataset
-Trained yolov3 with 500 images of pikachu
+Trained yolov3 with 500 images of pikachu.
+
 Video link: https://youtu.be/hlZREkENV88
 
 
